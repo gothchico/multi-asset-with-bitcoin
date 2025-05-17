@@ -1,0 +1,5 @@
+numpy>=1.26.4
+pandas>=2.2.3
+pdblp>=0.1.8
+--index-url=https://blpapi.bloomberg.com/repository/releases/python/simple blpapi
+setuptools>=57.5.0
