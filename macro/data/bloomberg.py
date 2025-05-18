@@ -2,8 +2,7 @@
 bloomberg.py
 
 A set of utility functions for fetching data from Bloomberg using the pdblp library
-Contributors:
-- Arohan Sharma <arohansharma@uchicago.edu>
+
 """
 
 import pdblp
